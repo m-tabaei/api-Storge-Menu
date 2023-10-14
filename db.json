@@ -283,8 +283,8 @@
       "name": "About Us",
       "link": "Contact",
       "dropdown": [
-        { "id": 1, "name": "Gallery", "link": "www.google.com" },
-        { "id": 2, "name": "New Products", "link": "www.google.com" },
+        { "id": 1, "name": "Gallery", "link": "/gallery" },
+        { "id": 2, "name": "New Products", "link": "/newproducts" },
         { "id": 3, "name": "Contact", "link": "/contact" }
       ]
     }
